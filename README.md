@@ -1,6 +1,7 @@
 # Switching tabs in the landing
 ---
-
+link: https://gumerov-marat.github.io/Switching-tabs-in-the-landing/
+---
 An example of solving a problem for a one-page site when you need to implement the functional part of switching tabs on JS
 
 - The site’s layout was not done by me, the styles too.
